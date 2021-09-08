@@ -1,1 +1,22 @@
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
 
+h2 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+img {
+    border-radius: 50px
+}
+
+
+div {
+    border: solid blue;
+    padding: 25px;
+}
+
+li {
+    margin: 10px
+    font-style: italic;
+}
